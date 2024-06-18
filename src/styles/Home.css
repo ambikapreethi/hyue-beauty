@@ -1,0 +1,144 @@
+.faUser,.faShoppingBag,.faBars,.faSearch
+{
+   width:35px;
+   height:20px;
+}
+button 
+{
+    width:70px;
+    height:50px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.radioBtn{
+    cursor: pointer;
+}
+
+.hyueImage
+{
+    cursor: pointer;
+    width: 100%;
+    height:600px;
+}
+.inside_image
+{
+   margin-left: 40px;
+   font-size: large;
+}
+.inner_image
+{
+    position: relative;
+    top:-350px;
+    color:white;
+    font-size: large;
+    letter-spacing: 2px;
+    font-weight: normal;
+}
+.hyue1
+{
+    letter-spacing:10px;
+    font-size:470%;
+    color:white;
+    position: relative;
+    top:-270px;
+}
+.hyue2
+{
+    letter-spacing:10px;
+    position: relative;
+    top:-670px;
+    color: white;
+    left:-460px
+}
+.hyue3 :first-child
+{
+    position: relative;
+    top:-640px;
+    left:-300px;
+    color:white;
+    font-size: 350%;
+}
+.site
+{
+    font-size: 40%;
+    letter-spacing: 2px;
+}
+
+.radio
+{
+    background-color: white;   
+    margin-left: 30px;
+}
+hr {
+    border: none; 
+    height: 0.1px;
+    background-color: #ccc;
+  }
+.shop
+{
+    width:140px;
+    height: 45px;
+    background-color: black;
+    color:white;
+}
+.beauty
+{
+    color:rgba(139, 69, 19, 0.8);
+    letter-spacing: 2px;
+    text-align: left;
+    margin-left: 40px;
+}
+.benefits
+{
+    display: flex;
+    margin-top: -260px;
+}
+.description
+{
+    color: rgba(0, 0, 0, 0.7); 
+    font-size: 14px;
+    text-align: left;
+    margin-left: 40px;
+}
+.benefits div 
+{
+    margin-left: 10px;
+    background-color: rgba(128, 128, 128, 0.1);
+    width:390px;
+    height: 130px;
+}
+.hydramatte
+{
+    text-align: left;
+    margin-left: 100px;
+}
+.hydra_heading,.nail_heading
+{
+    font-size: 230%;
+}
+.hydra_paragraph,.nail_paragraph
+{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.7); 
+    position: relative;
+    top:-20px;
+}
+.nailpolish_right
+{
+    width:400px;
+    text-align: left;
+    margin-top: 140px;
+}
+.hyue_nailpolish
+{
+    display: flex;
+}
+.hyue_nailpolish div{
+    margin-left: 70px;
+}
+.homeshop
+{
+    position: relative;
+    top:-270px;
+}

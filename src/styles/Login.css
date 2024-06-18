@@ -1,0 +1,26 @@
+  .loginInput{
+    width:400px;
+    height: 50px;
+}
+.loginHeader{
+    letter-spacing: 2px;
+} 
+.forgot
+{
+    margin-left: -220px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.account
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+ .loginBtn{
+    background-color: black;
+    color: white;
+    height:"30px";
+    width:130px;
+    font-size: 16px;
+
+}   

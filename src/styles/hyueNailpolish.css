@@ -1,0 +1,31 @@
+.productsHeading
+{
+    font-size: 35px;
+    text-align: left;
+    margin-left: 50px;
+    letter-spacing: 2px;
+}
+.treat
+{
+    background-color: black;
+    color:white;
+    height: 38px;
+    font-size: 15px;
+    margin-top: -17px;
+}
+.treat p
+{
+    position: relative;
+    top:10px;
+}
+.nailpolish
+{
+    width:280px;
+    height:300px;
+    margin:10px;
+    float:left;
+    padding: 5px;
+}
+.nailpolish p{
+    text-align: left;
+}
